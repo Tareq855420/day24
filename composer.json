@@ -1,0 +1,19 @@
+{
+  "name": "vendor_name/day24",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "PHP with Laravel",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {},
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "App\\" : "app//"
+    }
+  }
+}
